@@ -1,6 +1,6 @@
 from core import *
 from dl import *
-from mMySQLdbodel import *
+from model import *
 from admissiondischarge import *
 from room import *
 from doctor import *

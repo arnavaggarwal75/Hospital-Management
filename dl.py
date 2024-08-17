@@ -1,5 +1,5 @@
 #Database Logic Layer
-import MySQLdb
+import pymysql as MySQLdb
 from model import *
 
 def getConnection():
