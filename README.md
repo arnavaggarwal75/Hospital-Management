@@ -39,10 +39,6 @@ This project is a simple command-line based Hospital Management System that allo
    git clone https://github.com/arnavaggarwal75/Hospital-Management.git
 ```
 
-2. **Open the Project**
-
-Import the project into your preffered IDE as a Java project.
-
 2. **Install Dependancies**
 
    - Ensure you have the necessary Python packages installed. You can install the required packages using `pip`.
